@@ -1,0 +1,35 @@
+#btDiv4{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+} 
+
+#btDiv4>section {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+} 
+
+
+section > p {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color:antiquewhite;
+} 
+
+#btDiv4 { 
+     flex-direction: column;
+     height: 300px;
+     width: 100%;
+}
+
+section > p {
+     flex-direction: column;
+}
+
+#truefalse {
+     margin: 1rem;
+
+}
+

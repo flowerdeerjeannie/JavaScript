@@ -1,0 +1,9 @@
+#btDiv{ 
+     display: flex;
+     flex-direction: column; 
+     /* 밑으로 내려가게할때 column */
+     justify-content: center;
+     align-items: center;
+
+     height: 300px;
+}
