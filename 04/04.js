@@ -13,8 +13,8 @@ document.addEventListener("DOMContentLoaded", () => {
      // button이라는 이름을 가진 모든걸 가져오게끔하려면 쿼리셀렉터에 올붙여준다 
      // 수백개버튼중 집어오고싶은 버튼들만 있다면 그 버튼들만 class를 다 그룹으로 잡아준다 
      //그리고 querySelectiorAll('.(클래스)bt4')를 하면 클래스이름 bt4인 애들이 다 옴
-     const msg = document.querySelector("#msg")
-     const bts = document.querySelectorAll('.bt4')
+     const msg = document.querySelector("#msg");
+     const bts = document.querySelectorAll('.bt4');
      console.log(bts);
 
      // //반복문1

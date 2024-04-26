@@ -1,6 +1,24 @@
-#game {
-     display:flex;
+#game{
+     display: flex;
+     justify-content: center;
+     align-items: center;
      flex-direction: column;
      height: 300px;
-     width: 100%;
+} 
+
+#gameimg {
+     display:flex;
+     flex-direction: column;
+}
+
+
+input {
+     height: 40px;
+     width: 100px;
+} 
+
+section {
+     display: flex;
+     justify-content: center;
+     align-items: center;
 }
