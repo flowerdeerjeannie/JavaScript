@@ -1,0 +1,53 @@
+#btDiv9 {
+     width:100%;
+     height: 10rem;
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+}
+
+
+.number1, .number2, .number3, .number4, .number5, .number6, .number7 {
+     border-radius: 50%;
+     width: 3rem; 
+     height: 3rem;
+}
+
+.number1 {
+     background-color: red;
+     color: white;    
+}
+
+.number2 {
+     background-color: rgb(219, 238, 44);
+     color: white;    
+}
+
+.number3 {
+     background-color: rgb(4, 224, 59);
+     color: white;    
+}
+
+.number4 {
+     background-color: rgb(50, 114, 233);
+     color: white;    
+}
+
+.number5 {
+     background-color: rgb(149, 75, 235);
+     color: white;    
+}
+
+.number6 {
+     background-color: rgb(245, 55, 112);
+     color: white;    
+}
+
+.number7 {
+     background-color: rgb(19, 6, 1);
+     color: white;    
+}
+
+#plus {
+     background-color: rgb(253, 234, 218);
+}
